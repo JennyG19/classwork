@@ -1,0 +1,27 @@
+/*CSS3*/
+@charset "UTF-8";
+
+body
+{
+background-color: rgb(155, 168, 252);
+color: white;
+text-align: center;
+width: auto;
+height: auto;
+}
+
+#wrapper
+{
+    background-color:rgb(255, 255, 255);
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 1200px;
+    height: 50px;
+}
+#banner
+{
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
